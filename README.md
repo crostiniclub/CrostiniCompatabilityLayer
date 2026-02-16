@@ -11,7 +11,7 @@ This script installs the compatibility layer file included with this repository.
 ## Step 1: Clone the layer 
 
 ```bash
-git clone https://github.com/acdorman12/CrostiniCompatabilityLayer.git
+git clone https://github.com/crostiniclub/CrostiniCompatabilityLayer.git
 cd main.bash
 ```
 
