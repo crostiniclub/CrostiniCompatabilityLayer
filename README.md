@@ -8,33 +8,33 @@ This script installs the compatibility layer file included with this repository.
 
 # Installation
 
-## Step 1: Download the repository
+## Step 1: Clone the layer 
 
 ```bash
-git clone https://github.com/yourusername/crostini-compat-layer.git
-cd crostini-compat-layer
+git clone https://github.com/acdorman12/CrostiniCompatabilityLayer.git
+cd main.bash
 ```
 
 ---
 
-## Step 2: Make the installer executable
+## Step 2: Compile script
 
 ```bash
-chmod +x installer.bash
+chmod +x main.bash
 ```
 
 ---
 
-## Step 3: Run the installer
+## Step 3: Run the script
 
 ```bash
-./installer.bash
+./main.bash
 ```
 
 Or run with Bash:
 
 ```bash
-bash installer.bash
+bash main.bash
 ```
 
 ---
